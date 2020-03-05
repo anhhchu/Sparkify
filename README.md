@@ -1,4 +1,5 @@
 # Sparkify
+<img src="image.jpeg" alt="Udacity" title="Sparkify-churn" style ="width: 1000px;"/>
 Predicting churn of a music hosting service using medium-sized 247.6 MB dataset with Python and Spark running on IBM Watson Studio
 
 ## Motivation
