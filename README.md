@@ -6,8 +6,8 @@ Predicting churn of a music hosting service using medium-sized 247.6 MB dataset 
 This project is part of the requirement for Data Scientist Nanodegree on Udacity to follow a Data Analysis end-to-end process including ETL, Machine Learning and Deployment.
 
 ## Project Files
-  - **Sparkify_smallDataset.ipynb**: test notebook run on a small dataset of 128MB ('mini_sparkify_event_data.json')
   - **Sparkify.ipynb**: notebook run on the medium dataset run on medium dataset of 247.6 MB ('medium-sparkify-event-data.json')
+  - **Sparkify_smallDataset.ipynb**: test notebook run on a small dataset of 128MB ('mini_sparkify_event_data.json')
 
 ## Installation/Requirement
 The code is written in Python3. To run the Python code, you will need to install necessary packages using pip install or conda install.
