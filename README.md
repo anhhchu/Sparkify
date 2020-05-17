@@ -1,6 +1,9 @@
 # Sparkify
 <img src="image.jpeg" alt="Udacity" title="Sparkify-churn" style ="width: 1000px;"/>
-Predicting churn of a music hosting service using medium-sized 247.6 MB dataset with Python and Spark running on IBM Watson Studio
+Analyzed customer activities of a music hosting service using Spark Dataframe and Spark SQL on a 247.6 MB dataset running on IBM Watson Studio.
+Built ML Pipeline with Spark ML to predict churn, and achieved 0.74 F1 score and 0.8 accuracy
+
+[Go to blog post!](https://medium.com/@anhchu1291/churn-prediction-for-music-hosting-service-sparkify-5a8d476e5b9b)
 
 ## Motivation
 This project is part of the requirement for Data Scientist Nanodegree on Udacity to follow a Data Analysis end-to-end process including ETL, Machine Learning and Deployment.
